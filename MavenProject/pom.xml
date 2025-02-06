@@ -5,6 +5,9 @@
 	<groupId>Jenkin</groupId>
 	<artifactId>MavenProject</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<dependencies>
+
+	</dependencies>
 	<name>jenkins</name>
 	<build>
 		<plugins>
